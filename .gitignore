@@ -1,2 +1,4 @@
+/.stack-work/
 /dist/
 /dist-newstyle/
+/gtk2hs_macros.h
